@@ -1,0 +1,20 @@
+{
+  "name": "node",
+  "version": "0.0.1",
+  "private": true,
+  "description": "node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgerke/node.git"
+  },
+  "author": "chris.gerke@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgerke/node/issues"
+  },
+  "homepage": "https://github.com/cgerke/node#readme"
+}
